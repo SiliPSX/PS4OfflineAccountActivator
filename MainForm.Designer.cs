@@ -860,7 +860,7 @@
             this.Controls.Add(this.statusStrip1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
-            this.Text = "PS4 Offline Account Activator by barthen - 6.72 only";
+            this.Text = "PS4 Offline Account Activator by barthen - 7.02 only";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
